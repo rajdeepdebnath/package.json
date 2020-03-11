@@ -2,6 +2,7 @@
 
 ### File type: json
 
+```
 {
   "description":"",
   "main":"",
@@ -19,3 +20,4 @@
     "dependency1":"version no"
   }
 }
+```
